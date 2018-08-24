@@ -1,7 +1,7 @@
 {
-    "name": "webignition/simplytestable-userm-interface",
+    "name": "webignition/simplytestable-user-interface",
     "description": "",
-    "keywords": [,
+    "keywords": [],
     "homepage": "https://github.com/webignition/simplytestable-user-interface",
     "type": "library",
     "license": "MIT",
