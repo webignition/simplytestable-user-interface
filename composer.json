@@ -1,0 +1,22 @@
+{
+    "name": "webignition/simplytestable-userm-interface",
+    "description": "",
+    "keywords": [,
+    "homepage": "https://github.com/webignition/simplytestable-user-interface",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Cram",
+            "email": "jon@webignition.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "webignition\\SimplyTestableUserInterface\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
